@@ -1,5 +1,13 @@
 
     {% include sidebar.html %}
-### Resume of Amanda Miotto
+### Education
+
+### Employment
+
+### Skills
+
+### Publications
+
+### Projects
 
 This was last updated {{ site.datelastupdated }}
