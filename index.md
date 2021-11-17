@@ -15,4 +15,9 @@
 
 ### Projects
 
+#### Research Bazaar conference
+An annual conference to upskill researchers in tech. We host workshops, talks and stalls.
+Role: Organizing committee 2016-2021
+Role: Key Organizer 2018
+
 This was last updated {{ site.datelastupdated }}
