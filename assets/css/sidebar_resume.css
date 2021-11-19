@@ -12,6 +12,7 @@
   background-color: {{ site.colour1 }}; /* Battleship grey */
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 00px;
+  font-size: 23px;
   
 }
 
