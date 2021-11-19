@@ -9,7 +9,7 @@
   z-index: 1; /* Stay on top */
   top: 0; /* Stay at the top */
   left: 0;
-  background-color: {{ site.colour3 }}; /* Battleship grey */
+  background-color: {{ site.colour1 }}; /* Battleship grey */
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 20px;
 }
