@@ -40,14 +40,10 @@
 .main {
   margin-left: 200px; /* Same as the width of the sidebar */
   padding: 10px 10px;
-  background: {{ site.colour4 }};
+  background-color: {{ site.colour4 }};
 }
 
-main {
-  margin-left: 200px; /* Same as the width of the sidebar */
-  padding: 10px 10px;
-  background: {{ site.colour4 }};
-}
+
 
 /* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
 @media screen and (max-height: 450px) {
