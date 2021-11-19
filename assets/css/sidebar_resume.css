@@ -14,6 +14,7 @@
   padding-top: 00px;
   font-size: 23px;
   padding: 6px 8px 6px 16px;
+  color: {{ site.colour3 }};
 }
 
 
