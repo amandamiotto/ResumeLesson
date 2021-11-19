@@ -1,5 +1,12 @@
 
     {% include sidebar.html %}
+
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 ### Education
 
 | -------------------------- | ------------------------------ | ----- |
