@@ -1,33 +1,36 @@
 
     {% include sidebar.html %}
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
 
-### Education
+## Education
 
-| -------------------------- | ------------------------------ | ----- |
-| Bachelor of Science (Majoring in Bioinformatics) | University of Southern Queensland | 2003-2007 |
+| ------------------------------------- | ------------------------------------------- | ----- |
+| Bachelor of Science (Majoring in Bioinformatics) | University of Southern Queensland          | 2003-2007 |
 | Carpentry Instructor | The Carpentries | 2015 |
 | Agile Business Analysis Foundation Course | DDLS Brisbane | 2018 |
 
-### Employment
+## Employment
 
-| -------------------------- | ------------------------------ | ----- |
-|Griffith University|eResearch Analyst |2016-Present|
+| ------------------------------------- | ------------------------------------------- | ----- |
+|Griffith University      |eResearch Analyst         |2016-Present|
 |QCIF Secondment|eResearch Analyst |2018-Present|
 |Griffith University|Software Engineer |2010-2016|
 |Griffith University|Bioinformatician |2008-2010|
 
-### Skills
+## Skills
 
-### Publications
+- Intermediate skills in:
+  - Python
+  - R
+  - Linux/Bash
+  - SQL
+- Communication across different audiences
+- Writing a Github Page Resume then teaching it
+
+## Publications
 
 **Acceso a recursos de cómputo de alto rendimiento mediante correo electrónico (Access to high performance computing resources via email)**
-Estévez-Velarde, S., Miotto, A., Lewis, A., Bolufé-Röhler, A., & Chen, S. 2014
+Estévez-Velarde, S., Miotto, A., Bolufé-Röhler, A., & Chen, S. 2014
 https://experts.griffith.edu.au/publication/n4c4419aae6abe7655f9b1611680dd0f1
 
 
@@ -37,7 +40,7 @@ Jo P Pauls, Amanda Miotto, Andrew Stephens, Shaun D Gregory, Geoff Tansley 2018
 
 
 
-### Projects
+## Projects
 
 #### HPC Portal  2016
 Creation of a user-facing web portal to submit jobs to High Performance Computing systems, both internal and leveraging cloud infrastructure. Engagement with Researchers on their needs and current areas of trouble to design and build a system that addresses the discovered issues and provides support documentation for the system at the correct technical level.
