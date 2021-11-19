@@ -13,12 +13,14 @@
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 00px;
   font-size: 23px;
-  
+  padding: 6px 8px 6px 16px;
 }
+
+
 
 /* The navigation menu links */
 .sidenav a {
-  padding: 6px 8px 6px 16px;
+  padding: 6px 8px 6px 10px;
   text-decoration: none;
   font-size: 23px;
   color: {{ site.colour3 }};
