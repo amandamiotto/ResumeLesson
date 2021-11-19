@@ -11,8 +11,8 @@
   left: 0;
   background-color: {{ site.colour1 }}; /* Battleship grey */
   overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 00px;
   
-  padding: 6px 8px 6px 16px;
 }
 
 /* The navigation menu links */
@@ -20,7 +20,7 @@
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 23px;
-  color: {{ site.colour4 }};
+  color: {{ site.colour3 }};
   display: block;
 }
 
