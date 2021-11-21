@@ -1,6 +1,7 @@
 
-    {% include sidebar.html %}
+{% include sidebar.html %}
 
+#### This is my example basic resume, for people to learn how to use gitpages to create a resume for the workshop "Open CV" at the (https://resbaz.github.io/resbaz2021qld/)[Research Bazaar Qld Conference 2021]
 
 ## Education
 
