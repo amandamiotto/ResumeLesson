@@ -1,3 +1,4 @@
+
 # Create your open CV
 
 ### Intro
@@ -32,5 +33,7 @@ Create a new repository.
 Settings -> Pages -> Turn on Github pages
 Leave it set as main->/root for the moment. When you start making more complex pages, you may want to turn this to a branch
 
+### Variables
 
+You can either have 'Variables' as a global variable or a local variable. This means that if a variable is global, it is available for use on every page in your repository (repo). If a variable is local, it is defined and only available in that single page. Your global variables can be found in your _config.yml file on your repository
 
