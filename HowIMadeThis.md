@@ -10,6 +10,10 @@ First, make yourself a github account. If you use your edu.au account, you get f
 
 Your website will always be called https://[YOUR USER NAME HERE].github.io/[REPOSITORY NAME]/  For example, my resume is at https://amandamiotto.github.io/Portfolio/.
 
+This will show you your index page, or if you don't have an index page, your readme page. If you want to go to other pages, you add the name of the page at the end of the url. For example, this page, titled "HowIMadeThis" can be found at https://amandamiotto.github.io/Portfolio/HowIMadeThis . 
+
+Hint: if you add the extension at the end of the url, you'll get the raw (unformatted) page instead (aka https://amandamiotto.github.io/Portfolio/HowIMadeThis**.md** )
+
 
 ### Github pages and how they work:
 
