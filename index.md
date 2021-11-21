@@ -1,7 +1,7 @@
 
 {% include sidebar.html %}
 
-#### This is my example basic resume, for people to learn how to use gitpages to create a resume for the workshop "Open CV" at the (https://resbaz.github.io/resbaz2021qld/)[Research Bazaar Qld Conference 2021]
+#### This is my example basic resume, for people to learn how to use gitpages to create a resume for the workshop "Open CV" at the [Research Bazaar Qld Conference 2021](https://resbaz.github.io/resbaz2021qld/)
 
 ## Education
 
@@ -78,7 +78,7 @@ Research Bazaar combines Software Carpentry workshops with talks relevant to ear
 
 
 #### Hacky Hour Handbook - Author 2017
-Wrote a handbook on how to start and run hacky hour groups at an institute with lessons learnt, helpful resources and groups to target. Released as Creative Commons https://github.com/amandamiotto/HackyHourHandbook
+Wrote a handbook on how to start and run hacky hour groups at an institute with lessons learnt, helpful resources and groups to target. Released as Creative Commons [Link here](https://github.com/amandamiotto/HackyHourHandbook)
 
 
 
