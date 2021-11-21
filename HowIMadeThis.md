@@ -27,7 +27,6 @@ Github will assume files that end in html should render in HTML, and pages that 
 ## Using this template to make your own
 
 
-
 There's lots (and lots and lots) of much prettier templates on Github - you can search Github resume templates and see many that you can clone and alter for yourself. Hopefully this workshop helps you understand how the Github pages fit together.
 
 
@@ -37,7 +36,33 @@ Create a new repository.
 Settings -> Pages -> Turn on Github pages
 Leave it set as main->/root for the moment. When you start making more complex pages, you may want to turn this to a branch
 
+## Parts of Github Pages
+
 ### Variables
 
-You can either have 'Variables' as a global variable or a local variable. This means that if a variable is global, it is available for use on every page in your repository (repo). If a variable is local, it is defined and only available in that single page. Your global variables can be found in your _config.yml file on your repository
+You can either have 'Variables' as a global variable or a local variable. This means that if a variable is global, it is available for use on every page in your repository (repo). If a variable is local, it is defined and only available in that single page. Your global variables can be found in your _config.yml file on your repository . Jekyll has some more information here on [predefined and definable variables](https://jekyllrb.com/docs/front-matter/) . You can also check out this [Carpentry (beta - draft) lesson here](https://carpentries-incubator.github.io/jekyll-pages-novice/starting-jekyll/index.html).
 
+### Themes
+
+Github has premade themes that you can use as a basis here: Settings -> Pages -> Themes. 
+
+### Include other pages into your main page
+
+This can differ depending on what type of page you are using. If you have a Markdown page as your main Index page, you can include a html page using this:
+```
+{% include sidebar.html %}
+```
+and if you want to pull in a markdown page
+```
+{% include test.md %}
+```
+
+An example can be seen here: [https://amandamiotto.github.io/Portfolio/index.md](https://amandamiotto.github.io/Portfolio/index.md) in the first line. This pulls the html from my _includes/sidebar.html page into this page. In this case, that code makes a sidebar.
+
+With include, it automatically assumes that the page sidebar is in the _includes folder. If you want to reference a page in the same directory, you can use
+
+```
+{% include_relative filewithCode.html %}
+```
+
+It will look for a file in the same directory you are in, called filewithCode.html.
