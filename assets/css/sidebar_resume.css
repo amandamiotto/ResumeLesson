@@ -18,19 +18,19 @@
 
 .Namdiv {
   padding: 6px 8px 6px 16px;
-  color: {{ site.colour2 }};
+  font-color: {{ site.colour2 }};
   font-size: 23px;
 }
 
 .Descdiv {
   padding: 6px 8px 6px 16px;
-  color: {{ site.colour2 }};
+  font-color: {{ site.colour2 }};
   font-size: 15px;
 }
 
 /* The navigation menu links */
 .sidenav a {
-  padding: 6px 8px 6px 10px;
+  /*padding: 6px 8px 6px 10px;*/
   text-decoration: none;
   font-size: 20px;
   color: {{ site.colour3 }};
