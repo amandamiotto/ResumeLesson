@@ -53,21 +53,7 @@ This can differ depending on what type of page you are using. If you have a Mark
 ```bash
 {% include sidebar.html %}
 ```
-and if you want to pull in a markdown page
 
-```bash
-{% include test.md %}
-```
-
-An example can be seen here: [https://amandamiotto.github.io/Portfolio/index.md](https://amandamiotto.github.io/Portfolio/index.md) in the first line. This pulls the html from my _includes/sidebar.html page into this page. In this case, that code makes a sidebar.
-
-With include, it automatically assumes that the page sidebar is in the _includes folder. If you want to reference a page in the same directory, you can use
-
-```bash
-{% include_relative filewithCode.html %}
-```
-
-It will look for a file in the same directory you are in, called filewithCode.html.
 
 
 
