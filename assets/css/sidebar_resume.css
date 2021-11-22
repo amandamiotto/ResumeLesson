@@ -45,7 +45,7 @@
 /* Style page content */
 .main {
   margin-left: 20%; /* Same as the width of the sidebar */
-  padding: 10px 10px;
+  padding: 10px 20%;
   background-color: {{ site.colour4 }};
 }
 
