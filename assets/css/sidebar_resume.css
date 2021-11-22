@@ -16,10 +16,16 @@
 
 }
 
-.Indetdiv {
+.Namdiv {
   padding: 6px 8px 6px 16px;
   color: {{ site.colour2 }};
-  font-size: 17px;
+  font-size: 23px;
+}
+
+.Descdiv {
+  padding: 6px 8px 6px 16px;
+  color: {{ site.colour2 }};
+  font-size: 15px;
 }
 
 /* The navigation menu links */
@@ -37,7 +43,7 @@
 }
 
 /* Style page content */
-.main {
+main {
   margin-left: 200px; /* Same as the width of the sidebar */
   padding: 10px 10px;
   background-color: {{ site.colour4 }};
