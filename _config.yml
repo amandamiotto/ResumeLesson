@@ -10,3 +10,5 @@ colour2: "#FFFFFF"  # colour of name and desc
 colour3: "#3C6E71"  # colour of Menu links
 colour4: "#d4dfc7ff" # trying to be background colour - still experimenting 
 colour5: "#284B63" # menu link colour when hover%
+
+theme: jekyll-theme-slate
