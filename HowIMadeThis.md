@@ -29,7 +29,7 @@ Github will assume files that end in html should render in HTML, and pages that 
 
 There's lots (and lots and lots) of much prettier templates on Github - you can search Github resume templates and see many that you can clone and alter for yourself. Hopefully this workshop helps you understand how the Github pages fit together.
 
-Let's look at a [breakdown of this repostory](PartsOfThisRepo.md)
+Let's look at a [breakdown of this repostory](_includes/PartsOfThisRepo.md)
 
 ## If you were going to create a Github page yourself
 
