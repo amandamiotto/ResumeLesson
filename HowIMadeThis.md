@@ -50,15 +50,11 @@ Github has premade themes that you can use as a basis here: Settings -> Pages ->
 ### Include other pages into your main page
 
 This can differ depending on what type of page you are using. If you have a Markdown page as your main Index page, you can include a html page using this:
-```html
-{% include sidebar.html %}
-```
+    ~~~
+    {% include sidebar.html %}
+    ~~~
 
-    ~~~
-    age = 42
-    first_name = 'Ahmed'
-    ~~~
-    {: .language-python}
+
 
 
 
