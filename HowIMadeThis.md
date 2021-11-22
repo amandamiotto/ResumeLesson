@@ -51,8 +51,10 @@ Github has premade themes that you can use as a basis here: Settings -> Pages ->
 
 This can differ depending on what type of page you are using. If you have a Markdown page as your main Index page, you can include a html page using this:
 
-```plain
+```
+<code>
     {% include sidebar.html %}
+</code>
 ```
 
 
