@@ -18,13 +18,13 @@
 
 .Namdiv {
   padding: 6px 8px 6px 16px;
-  font-color: {{ site.colour2 }};
+  color: {{ site.colour2 }};
   font-size: 30px;
 }
 
 .Descdiv {
   padding: 6px 8px 6px 16px;
-  font-color: {{ site.colour2 }};
+  color: {{ site.colour2 }};
   font-size: 23px;
 }
 
