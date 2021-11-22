@@ -50,8 +50,21 @@ Github has premade themes that you can use as a basis here: Settings -> Pages ->
 ### Include other pages into your main page
 
 This can differ depending on what type of page you are using. If you have a Markdown page as your main Index page, you can include a html page using this:
+and if you want to pull in a markdown page
 
-\{ %include sidebar.html %\}
+
+\{% include test.md %\}
+
+
+An example can be seen here: [https://amandamiotto.github.io/Portfolio/index.md](https://amandamiotto.github.io/Portfolio/index.md) in the first line. This pulls the html from my _includes/sidebar.html page into this page. In this case, that code makes a sidebar.
+
+With include, it automatically assumes that the page sidebar is in the _includes folder. If you want to reference a page in the same directory, you can use
+
+
+\{% include_relative filewithCode.html %\}
+
+
+It will look for a file in the same directory you are in, called filewithCode.html .
 
 
 
