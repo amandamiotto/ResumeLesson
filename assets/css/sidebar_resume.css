@@ -18,7 +18,7 @@
 
 .Indetdiv {
   padding: 6px 8px 6px 16px;
-  color: {{ site.colour3 }};
+  color: {{ site.colour2 }};
   font-size: 17px;
 }
 
