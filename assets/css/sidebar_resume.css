@@ -30,8 +30,8 @@
 
 /* The navigation menu links */
 .sidenav a {
-  /*padding: 6px 8px 6px 10px;
-  text-decoration: none;*/
+  padding: 6px 8px 6px 6px;
+  /*text-decoration: none;*/
   font-size: 20px;
   color: {{ site.colour3 }};
   /*display: block;*/
@@ -43,7 +43,7 @@
 }
 
 /* Style page content */
-main {
+.main {
   margin-left: 250px; /* Same as the width of the sidebar */
   padding: 10px 10px;
   background-color: {{ site.colour4 }};
