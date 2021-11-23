@@ -27,6 +27,7 @@ You can either use HTML or something special called Markdown to style it. You ma
 Github will assume files that end in html should render in HTML, and pages that end in .md should be rendered with Github Markdown.
 
 
+
 ## Using this template to make your own
 
 
