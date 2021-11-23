@@ -73,7 +73,7 @@ Organizer of ~20 Software Carpentry workshops here at Griffith University.
 #### Research Bazaar Conference- Organizer, Committee member, Speaker and Instructor 2016 - Ongoing
 Research Bazaar combines Software Carpentry workshops with talks relevant to early career researchers, stalls, poster sessions and collaborative activities. As an organizer from the inaugural Brisbane Research Bazaar, I have organized speakers, social activities, sponsorship and stalls and highlighted local talent for involvement. 
 
-**Role:** Organizing committee 2016-2021
+**Role:** Organizing committee 2016 - 2021
 
 **Role:** Key Organizer 2018
 
