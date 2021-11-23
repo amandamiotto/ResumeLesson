@@ -64,13 +64,13 @@ Undertook tender Process, led technical approval processes and authored technica
 Open hour designed to upskill researchers in coding and technical areas to accelerate their research. Includes assistance with storage, HPC, cloud, languages and libraries install and debugging & collaborative links with other groups/researchers. Works in conjunction with Software Carpentry Workshops, Research Bazaar Conferences, NCRIS resources and other hacky hours and community groups around QLD and AU/NZ. 
 
 
-#### Software Carpentry - Instructor and Organizer for Griffith University 2015-Ongoing
+#### Software Carpentry - Instructor and Organizer for Griffith University 2015 - Ongoing
 Software Carpentry are ‘Introduction to programming’ workshops shaped for researchers who have never programmed before. 
 Instructor at ~30 Software Carpentry workshops.
 Organizer of ~20 Software Carpentry workshops here at Griffith University.
 
 
-#### Research Bazaar Conference- Organizer, Committee member, Speaker and Instructor 2016-Ongoing
+#### Research Bazaar Conference- Organizer, Committee member, Speaker and Instructor 2016 - Ongoing
 Research Bazaar combines Software Carpentry workshops with talks relevant to early career researchers, stalls, poster sessions and collaborative activities. As an organizer from the inaugural Brisbane Research Bazaar, I have organized speakers, social activities, sponsorship and stalls and highlighted local talent for involvement. 
 
 **Role:** Organizing committee 2016-2021
