@@ -2,7 +2,7 @@
 ---
 
 body {
-  margin-left: 5%; /* Same as the width of the sidebar */
+  margin-left: 15%; /* Same as the width of the sidebar */
   padding: 5% 5%;
   background-color: {{ site.colour5 }};
 }
