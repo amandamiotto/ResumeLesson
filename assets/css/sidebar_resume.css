@@ -35,6 +35,7 @@ body {
   color: {{ site.colour2 }};
   text-align: center;
   font-size: 23px;
+  font-family: Garamond;
 }
 
 /* The navigation menu links */
