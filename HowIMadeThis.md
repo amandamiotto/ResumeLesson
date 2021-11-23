@@ -17,6 +17,7 @@ This will show you your index page, or if you don't have an index page, your rea
 Hint: if you add the extension at the end of the url, you'll get the raw (unformatted) page instead (aka https://amandamiotto.github.io/Portfolio/HowIMadeThis**.md** )
 
 
+
 ### Github pages and how they work:
 
 Github has integrated [Jekyll themes](https://github.com/topics/jekyll-theme) into its system to 'render' (aka make it work like a webpage). It has css to style it, and you can either pick from the predefined styles or use github themes.
