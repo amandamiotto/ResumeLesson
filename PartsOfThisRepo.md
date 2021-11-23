@@ -25,3 +25,5 @@
 **The two files we'll work with today are _config.yml and index.md** 
 
 We can also add a new photo later by either uploading your own profile photo here: https://github.com/[Your name here]/Portfolio/tree/main/assets with the name "ProfilePhoto.JPG" OR uploading your photo into assets and including the name here: [https://github.com/amandamiotto/Portfolio/blob/main/_includes/sidebar.html#L7](https://github.com/amandamiotto/Portfolio/blob/main/_includes/sidebar.html#L7)
+
+
