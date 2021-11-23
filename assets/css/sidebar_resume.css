@@ -4,7 +4,7 @@
 body {
   margin-left: 15%; /* Same as the width of the sidebar */
   padding: 5% 5%;
-  background-color: {{ site.colour4 }};
+  background-color: {{ site.colour5 }};
 }
 
 /* The sidebar menu */
