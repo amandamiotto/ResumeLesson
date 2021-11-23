@@ -85,4 +85,4 @@ Wrote a handbook on how to start and run hacky hour groups at an institute with 
 
 
 
-This page was last updated {{ site.datelastupdated }}
+This page was last updated {{ site.datelastupdated }} .
