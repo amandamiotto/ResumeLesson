@@ -3,7 +3,7 @@
 
 body {
   margin-left: 20%; /* Same as the width of the sidebar */
-  padding: 5% 5%;
+  padding: 5% 15%;
   background-color: {{ site.colour5 }};
 }
 
