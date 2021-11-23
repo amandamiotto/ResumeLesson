@@ -18,7 +18,7 @@ body {
   background-color: {{ site.colour1 }}; /* Battleship grey */
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 00px;
-  font-size: 25px;
+  font-size: 20px;
 
 }
 
@@ -26,7 +26,7 @@ body {
   padding: 6px 8px 6px 16px;
   color: {{ site.colour2 }};
   text-align: center;
-  font-size: 30px;
+  font-size: 25px;
   font-family: Helvetica;
 }
 
@@ -34,7 +34,7 @@ body {
   padding: 6px 8px 6px 16px;
   color: {{ site.colour2 }};
   text-align: center;
-  font-size: 23px;
+  font-size: 22px;
   font-family: Helvetica;
 }
 
@@ -42,7 +42,7 @@ body {
 .sidenav a {
   padding: 6px 8px 6px 6px;
   /*text-decoration: none;*/
-  font-size: 23px;
+  font-size: 20px;
   color: {{ site.colour3 }};
   /*display: block;*/
 }
