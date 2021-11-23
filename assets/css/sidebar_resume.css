@@ -1,6 +1,12 @@
 ---
 ---
 
+body {
+  margin-left: 20%; /* Same as the width of the sidebar */
+  padding: 5% 20%;
+  background-color: {{ site.colour4 }};
+}
+
 /* The sidebar menu */
 .sidenav {
   height: 100%; /* Full-height: remove this if you want "auto" height */
@@ -42,12 +48,12 @@
   color: {{ site.colour5 }};
 }
 
-/* Style page content */
+/* Style page content 
 .main {
-  margin-left: 20%; /* Same as the width of the sidebar */
+  margin-left: 20%; /* Same as the width of the sidebar 
   padding: 5% 20%;
   background-color: {{ site.colour4 }};
-}
+}*/
 
 
 
