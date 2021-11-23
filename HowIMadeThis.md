@@ -8,7 +8,7 @@ We're going to use Github Pages to create a webpage so you can host your resume 
 First, make yourself a github account. If you use your edu.au account, you get free private repositories.
 **Anything you put in a public repository or github pages is open to the world.**
 
-Your website will always be called https://[YOUR USER NAME HERE].github.io/[REPOSITORY NAME]/  For example, my resume is at https://amandamiotto.github.io/Portfolio/.
+Your website will always be called https://[YOUR USER NAME HERE].github.io/[REPOSITORY NAME]/  For example, my resume is at [https://amandamiotto.github.io/Portfolio/](https://amandamiotto.github.io/Portfolio/).
 
 This will show you your index page, or if you don't have an index page, your readme page. If you want to go to other pages, you add the name of the page at the end of the url. For example, this page, titled "HowIMadeThis" can be found at https://amandamiotto.github.io/Portfolio/HowIMadeThis . 
 
