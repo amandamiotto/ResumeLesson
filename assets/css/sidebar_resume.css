@@ -27,6 +27,7 @@ body {
   color: {{ site.colour2 }};
   text-align: center;
   font-size: 30px;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 .Descdiv {
