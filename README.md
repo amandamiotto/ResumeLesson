@@ -6,7 +6,5 @@
 [How did I make this?](HowIMadeThis)
 
 #### See the results
-[https://amandamiotto.github.io/
-ResumeLesson/](https://amandamiotto.github.io/
-ResumeLesson)
+[https://amandamiotto.github.io/ResumeLesson/](https://amandamiotto.github.io/ResumeLesson)
 
