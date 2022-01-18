@@ -11,11 +11,11 @@ First, make yourself a github account. If you use your edu.au account, you get f
 
 Here's an explainer of github https://kinsta.com/knowledgebase/what-is-github/
 
-Your website will always be called https://[YOUR USER NAME HERE].github.io/[REPOSITORY NAME]/  For example, my resume is at [https://amandamiotto.github.io/Portfolio/](https://amandamiotto.github.io/Portfolio/).
+Your website will always be called https://[YOUR USER NAME HERE].github.io/[REPOSITORY NAME]/  For example, my resume is at [https://amandamiotto.github.io/ResumeLesson/](https://amandamiotto.github.io/ResumeLesson/).
 
-This will show you your index page, or if you don't have an index page, your readme page. If you want to go to other pages, you add the name of the page at the end of the url. For example, this page, titled "HowIMadeThis" can be found at https://amandamiotto.github.io/Portfolio/HowIMadeThis . 
+This will show you your index page, or if you don't have an index page, your readme page. If you want to go to other pages, you add the name of the page at the end of the url. For example, this page, titled "HowIMadeThis" can be found at https://amandamiotto.github.io/ResumeLesson/HowIMadeThis . 
 
-Hint: if you add the extension at the end of the url, you'll get the raw (unformatted) page instead (aka https://amandamiotto.github.io/Portfolio/HowIMadeThis**.md** )
+Hint: if you add the extension at the end of the url, you'll get the raw (unformatted) page instead (aka https://amandamiotto.github.io/ResumeLesson/HowIMadeThis**.md** )
 
 
 
@@ -61,7 +61,7 @@ and if you want to pull in a markdown page
 \{ % include test.md % \}
 
 
-An example can be seen here: [https://amandamiotto.github.io/Portfolio/index.md](https://amandamiotto.github.io/Portfolio/index.md) in the first line. This pulls the html from my _includes/sidebar.html page into this page. In this case, that code makes a sidebar.
+An example can be seen here: [https://amandamiotto.github.io/ResumeLesson/index.md](https://amandamiotto.github.io/ResumeLesson/index.md) in the first line. This pulls the html from my _includes/sidebar.html page into this page. In this case, that code makes a sidebar.
 
 With include, it automatically assumes that the page sidebar is in the _includes folder. If you want to reference a page in the same directory, you can use
 
