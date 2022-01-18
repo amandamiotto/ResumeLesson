@@ -9,7 +9,7 @@ We're going to use Github Pages to create a webpage so you can host your resume 
 First, make yourself a github account. If you use your edu.au account, you get free private repositories.
 **Anything you put in a public repository or github pages is open to the world.**
 
-Here's an explainer of github https://kinsta.com/knowledgebase/what-is-github/
+Here's an explainer of github [https://kinsta.com/knowledgebase/what-is-github/](https://kinsta.com/knowledgebase/what-is-github/)
 
 Your website will always be called https://[YOUR USER NAME HERE].github.io/[REPOSITORY NAME]/  For example, my resume is at [https://amandamiotto.github.io/ResumeLesson/](https://amandamiotto.github.io/ResumeLesson/).
 
